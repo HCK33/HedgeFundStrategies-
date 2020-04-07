@@ -1,2 +1,0 @@
-# HedgeFundStrategies-
-HaasGroup4
